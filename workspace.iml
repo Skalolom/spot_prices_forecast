@@ -4,5 +4,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="SpotPricesForecast" />
+    <orderEntry type="module" module-name="Coursera" />
+    <orderEntry type="module" module-name="ExcelReports" />
+    <orderEntry type="module" module-name="ped_nagr" />
+    <orderEntry type="module" module-name="ZoneSpotPricesForecast" />
+    <orderEntry type="module" module-name="Opt" />
+    <orderEntry type="module" module-name="ZoneCnpForecast" />
   </component>
 </module>
