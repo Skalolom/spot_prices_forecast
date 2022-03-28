@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/DataspellProjects/Coursera/.idea/Coursera.iml" filepath="$USER_HOME$/DataspellProjects/Coursera/.idea/Coursera.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/DeepLearning/.idea/DeepLearning.iml" filepath="$USER_HOME$/DataspellProjects/DeepLearning/.idea/DeepLearning.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/ExcelReports/.idea/ExcelReports.iml" filepath="$USER_HOME$/DataspellProjects/ExcelReports/.idea/ExcelReports.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/Opt/.idea/Opt.iml" filepath="$USER_HOME$/DataspellProjects/Opt/.idea/Opt.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/SpotPricesForecast/.idea/SpotPricesForecast.iml" filepath="$USER_HOME$/DataspellProjects/SpotPricesForecast/.idea/SpotPricesForecast.iml" />

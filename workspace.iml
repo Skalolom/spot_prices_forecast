@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="ZoneSpotPricesForecast" />
     <orderEntry type="module" module-name="Opt" />
     <orderEntry type="module" module-name="ZoneCnpForecast" />
+    <orderEntry type="module" module-name="DeepLearning" />
   </component>
 </module>
