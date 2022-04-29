@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Microsoft SQL Server - @172.20.35.10" uuid="b3646a5a-591e-4466-a8fb-f9a576118ffa">
-      <driver-ref>sqlserver.ms</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://172.20.35.10</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
     <data-source source="LOCAL" name="192.168.1.10" uuid="0530f330-6dd0-4491-9565-77e850d4aa94">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
